@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1153708046",
+    "firebase_url": "https://garbage-disposal-8ab8a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "garbage-disposal-8ab8a",
+    "storage_bucket": "garbage-disposal-8ab8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1153708046:android:6ae6becb8edb42cb358c5f",
+        "android_client_info": {
+          "package_name": "com.example.atproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1153708046-g0o479omt49u6fd6b34lu8487kttmnln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2H4_EZ1yQ0xZ8snzlG2xiU0COG_45_6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1153708046-g0o479omt49u6fd6b34lu8487kttmnln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
